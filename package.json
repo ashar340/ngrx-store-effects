@@ -37,7 +37,7 @@
     "karma-spec-reporter": "0.0.32",
     "karma-webpack": "4.0.2",
     "ngrx-store-freeze": "^0.2.4",
-    "node-sass": "4.14.1",
+    "node-sass": "7.0.0",
     "progress-bar-webpack-plugin": "2.1.0",
     "raw-loader": "4.0.1",
     "rimraf": "3.0.2",
